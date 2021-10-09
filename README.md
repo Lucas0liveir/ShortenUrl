@@ -12,7 +12,7 @@
 * Run the command `$ npm run build:watch` for the compiled the Typescript code.
 * After, run the command `$ npm start` for start your server.
 
-### The backend don't have a validation security, your implements you self. Don't deploy it public without validations.
+### The backend don't have a validation security. Don't deploy it public without validations.
 ***
 
 ## Run the Frontend
