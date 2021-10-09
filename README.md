@@ -1,6 +1,6 @@
 # ShortenUrl by project of DIO
 
-![img](https://img.shields.io/github/license/Lucas0liveir/ShortenUrl)
+![img](https://img.shields.io/github/license/Lucas0liveir/ShortenUrl?style=for-the-badge)
 
 * Backend developed from the bootcamp of digital innovation one.
 * FrontEnd implements by me, using React
